@@ -1,6 +1,3 @@
-Here’s a fully formatted GitHub README version that you can directly copy and paste:
-
-````markdown
 # YouTube Video Recommender Chatbot
 
 A Dialogflow-based chatbot that recommends YouTube videos based on user preferences such as category, duration, and style. This project uses Dialogflow ES for natural language understanding and a Python Flask webhook to fetch video results from the YouTube Data API v3.
@@ -35,7 +32,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/youtube-chatbot.git
 cd youtube-chatbot
-````
+
 
 Install dependencies:
 
