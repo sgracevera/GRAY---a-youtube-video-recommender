@@ -30,7 +30,7 @@ A Dialogflow-based chatbot that recommends YouTube videos based on user preferen
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/youtube-chatbot.git
+git clone https://github.com/sgracevera/GRAY---a-youtube-video-recommender
 cd youtube-chatbot
 
 
